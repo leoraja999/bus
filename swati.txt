@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 singular nodo- nodde tika muchkodu hogu dnka
+=======
+tika 
+
+>>>>>>> sundar
